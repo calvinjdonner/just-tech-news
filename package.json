@@ -1,0 +1,20 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "app for posting and commenting on tech news",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinjdonner/just-tech-news.git"
+  },
+  "author": "calvin donner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinjdonner/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/calvinjdonner/just-tech-news#readme",
+  "start": "node server.js"
+}
